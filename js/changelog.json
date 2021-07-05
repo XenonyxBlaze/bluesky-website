@@ -1,0 +1,20 @@
+{
+    "updates":[
+        {
+            "heading":"BluSky Beta 8 in development",
+            "subheading":"Features planned:",
+            "date":"22-June-2021",
+            "log":[
+                "Better compatibility with other launchers if you are using BlueSky with BLauncher or M Centres",
+                "Better, more cleaner looking UI with legacy minecraft launcher style",
+                "News site desplayed on main UI",
+                "Better support for Patch methods",
+                "New Patch methods",
+                "Better hardware compatibility",
+                "Injection",
+                "Ability to save settings and confirm Minecraft installation",
+                "CODEX injection (incase you are using 1909 or older Windows 10 version and don't care about online services)"
+            ]
+        }
+    ]
+}
