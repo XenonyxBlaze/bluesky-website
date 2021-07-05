@@ -16,7 +16,7 @@ let insertUpdates = (obj) => {
 
     //add changelog
 
-    obj.updates.forEach(update => {
+    obj.updates.reverse().forEach(update => {
         //add heading/subheading/date
         let headingEl = document.createElement('li');
         headingEl.setAttribute('class','h1 text-warning');
