@@ -1,10 +1,9 @@
 {
-    "updates":[
-        {
-            "heading":"BluSky Beta 8 in development",
-            "subheading":"Features planned:",
-            "date":"22 June 2021",
-            "log":[
+    "updates": [{
+            "heading": "BluSky Beta 8 in development",
+            "subheading": "Features planned:",
+            "date": "22 June 2021",
+            "log": [
                 "Better compatibility with other launchers if you are using BlueSky with BLauncher or M Centres",
                 "Better, more cleaner looking UI with legacy minecraft launcher style",
                 "News site desplayed on main UI",
@@ -17,14 +16,24 @@
             ]
         },
         {
-            "heading":"BlueSky development on hault",
-            "subheading":"Windows 11 update causes problems",
-            "date":"29 June 2021",
-            "log":[
+            "heading": "BlueSky development on hault",
+            "subheading": "Windows 11 update causes problems",
+            "date": "29 June 2021",
+            "log": [
                 "Due to hardware requirement changes in Windows 11, Microsoft has suspended support for some older CPUs (including the developer ClickNin's).",
                 "Most of the games will most likely have MSIXVC and there's a chance that UWP era might come to an end.",
                 "Until ClickNin can upgrade his PC (most likely in September), there will not be any update to BlueSky.",
                 "Once more information is available and Windows 11 is released, development may resume."
+            ]
+        },
+        {
+            "heading": "Beta 8 Version 0.8b",
+            "date": "19 July 2021",
+            "log": [
+                "Complete rewritten! more faster, more friendly, more stable and more simplier.",
+                "New WebView and News site embeded inside the launcher",
+                "Use progress bar and error code to seek errors.",
+                "More..."
             ]
         }
     ]
